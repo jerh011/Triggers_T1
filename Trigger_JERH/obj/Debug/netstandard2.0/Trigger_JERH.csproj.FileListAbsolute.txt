@@ -1,0 +1,15 @@
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\bin\Debug\netstandard2.0\Trigger_JERH.deps.json
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\bin\Debug\netstandard2.0\Trigger_JERH.dll
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\bin\Debug\netstandard2.0\Trigger_JERH.pdb
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.csproj.AssemblyReference.cache
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.AssemblyInfoInputs.cache
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.AssemblyInfo.cs
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.csproj.CoreCompileInputs.cache
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.dll
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\refint\Trigger_JERH.dll
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\Trigger_JERH.pdb
+C:\Users\cd22\source\repos\Trigger_JERH\Trigger_JERH\obj\Debug\netstandard2.0\ref\Trigger_JERH.dll
